@@ -43,5 +43,5 @@ This is a simple web application built using Flask to provide weather conditions
    The application will be accessible at http://localhost:8000 in your web browser.
 
 ## Screenshots
-[Home Page](https://github.com/jain-harshit03/Web-Application-Using-Flask/blob/main/Screenshot%20(458).png)
-[Main Page](https://github.com/jain-harshit03/Web-Application-Using-Flask/blob/main/Screenshot%20(459).png) 
+[Home Page](https://github.com/jain-harshit03/Web-Application-Using-Flask/blob/main/Screenshot%20(458).png?raw=true)
+[Main Page](https://github.com/jain-harshit03/Web-Application-Using-Flask/blob/main/Screenshot%20(459).png?raw=true) 
